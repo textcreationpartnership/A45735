@@ -1,0 +1,545 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A warning-piece to the sloathful, idle, careless, drunken and secure ones of these last and worst times wherein the danger that attends everyone that delights in any of these vices may be avoided, and the reward of those that have their conversation in holinesse may be attained.</title>
+            <author>Hart, John, D.D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45735</idno>
+            <idno type="STC">Wing H961</idno>
+            <idno type="STC">ESTC R29868</idno>
+            <idno type="EEBO-CITATION">11216401</idno>
+            <idno type="OCLC">ocm 11216401</idno>
+            <idno type="VID">46847</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45735)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46847)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1444:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A warning-piece to the sloathful, idle, careless, drunken and secure ones of these last and worst times wherein the danger that attends everyone that delights in any of these vices may be avoided, and the reward of those that have their conversation in holinesse may be attained.</title>
+                  <author>Hart, John, D.D.</author>
+               </titleStmt>
+               <extent>[45] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Thackeray ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sins --  Early works to 1800.</term>
+               <term>Vices --  Early works to 1800.</term>
+               <term>Christian ethics --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46847:1" rendition="simple:additions"/>
+            <p>A Warning-Piece TO THE Sloathful, Idle, Careleſs, Drunken, and Secure Ones, of theſe laſt and worſt of Times. WHEREIN The danger that attends every one that delights in any of theſe Vices may be avoided: and the Reward of thoſe that have their Converſation in Holineſs, may be attained.</p>
+            <q>
+               <bibl>
+                  <hi>Pro. 24.30, 31.</hi>
+               </bibl>
+               <p>I paſſed by the field of the ſloathful and by the Vineyard of the man deſtitute of underſtanding; and loe, it was all grown over with Thorns, and Nettles had covered the face thereof, and the ſtone-wall thereof was broken down.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Prov. 23.29, 30.</hi>
+               </bibl>
+               <p>Who hath Woe? who hath ſor<g ref="char:EOLhyphen"/>row? who hath contentions? who hath wounds without cauſe? who hath redneſs of Eyes? even they that tarry long at the Wine, they that go to ſeek mixt Wine.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Thackery in Duck-Lane.</hi> 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46847:2"/>
+            <pb facs="tcp:46847:2"/>
+            <head>A WARNING TO THE Sloathful, Idle, Careleſs, and Secure Ones, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Herein can a friend more unfold his love, than in preventing dan<g ref="char:EOLhyphen"/>gers before their birth, or in re<g ref="char:EOLhyphen"/>ducing one to ſafety which is tra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>velling in the way to ruine? T<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be plain, argues honeſty.</p>
+            <p>
+               <hi>Croeſus</hi> counſelled <hi>Cyrus,</hi> that if he mean to hold the <hi>Lydians</hi> in ſlavery, that he ſhould teach them to ſing, and play, and drink, and dance, and daily; for (ſaith he) that will do i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> without your endeavour.</p>
+            <p>The Devil with pleaſure pipes men into ſe<g ref="char:EOLhyphen"/>curity, then ſteals away their ſouls, and leave<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them to the wrath of God. Vice is of ſuch <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:46847:3"/>toady complexion that it cannot chuſe but reach the ſoul to hate. 'Tis true, men learn to do evil, by doing that is next it (nothing.)</p>
+            <p>Idleneſs is the moſt corrupting flye that can blow in any humane mind: Tell me if there be any life more irkſome than idleſs; it is the ſink which receiveth all the filthy channel of vice, and with that poiſonous air it poiſoneth and infecteth the ſoul. Man being idle hath his mind apt to all uncleanneſs, and when then wind is void of exerciſe, the man is void of honeſty; proſperity engendreth ſloath, it turneth the edge of wit.</p>
+            <p>
+               <hi>Ariſtotle</hi> ſaith, That which is moſt noble by nature, is made moſt vile by negligence; idle<g ref="char:EOLhyphen"/>neſs is the only nurſe, and nouriſher of ſenſu<g ref="char:EOLhyphen"/>al appetites.</p>
+            <p>
+               <hi>Hierom</hi> adviſeth us, ever to be doing ſome<g ref="char:EOLhyphen"/>thing that the Devil find us not idle; for it is his cuſhion wherewith he lulls the ſoul aſleep in ſin. Saith <hi>O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ige<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> It teacheth much wicked<g ref="char:EOLhyphen"/>neſs. <hi>Cicero</hi> ſaith, They that do nothing learn to do ill. Idleneſs is the more that ſoreſt and ſooneſt infecteth the mind with many miſchiefs. It'<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> againſt nature (ſaith <hi>Cicero</hi>) yea the ſloath<g ref="char:EOLhyphen"/>ful man ſleepeth in his own want: it is hard for him that will not labour to excel in any Art: Idleneſs is the enemy of Vertue, and the very train of all wickedneſe.</p>
+            <pb facs="tcp:46847:3"/>
+            <p>
+               <hi>Galen</hi> ſaith, Sloath loſeth time, dulleth th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> underſtanding, nouriſheth humours, choaketh the brain, and diſpleaſeth God.</p>
+            <p>
+               <hi>Seneca</hi> ſaith, It's the mother of poverty, it's the ready way to Atheiſm.</p>
+            <p>
+               <hi>Homer</hi> ſaith, Idleneſs maketh of men, wo<g ref="char:EOLhyphen"/>men: of women, beaſts: and of beaſts, mon<g ref="char:EOLhyphen"/>ſters.</p>
+            <p>
+               <hi>Pythagoras</hi> gave his Diſciples this precept, Take good heed that thou ſit not upon a buſhel, meaning that Idleneſs ought eſpecially to be eſ<g ref="char:EOLhyphen"/>chewed. Luſt is quenched through labour; and kindled through idleneſs.</p>
+            <p>The idle heart is moved with no Prayers. The rich man, if he wax idle, will quickly be poor. It's the ſtep-mother of Wiſdom and Science. Men are born to good works, where<g ref="char:EOLhyphen"/>of our ſouls may ſerve for an invincible proof, ſeeing it is never ſtill, but in continual motion and action: it decays the health of the body. The Bées can abide no drones among them, but as ſoon as they begin to be idle, they kill them, ſaith <hi>Plutarch.</hi> The wiſe mans idleneſs in his continual labour, <hi>Carthage</hi> was overcome; <hi>Rome</hi> by idleneſs came to ruine, (ſaith <hi>Auguſtine.</hi>)</p>
+            <p>
+               <hi>Solomon</hi> ſaith, <hi>Prov. 12.11. he that follow<g ref="char:EOLhyphen"/>eth the idle is deſtitute of underſtanding.</hi> The Egytians to vaniſh idleneſs, made a Law that every one monthly ſhould give account
+<pb facs="tcp:46847:4"/>how he ſpent his time, and had their names regiſtered in a Book for the ſame purpoſe. Idle<g ref="char:EOLhyphen"/>neſs doth cauſe in man diſhoneſt thoughts, and opens the gate unto all vice: but the good exer<g ref="char:EOLhyphen"/>ciſes of vertue do ſhut the may of the temp<g ref="char:EOLhyphen"/>tation that the Devil cannot get in. <hi>Solomon</hi> ſaith, <hi>Go to the Piſmire, O ſluggard, and behold her ways, and be wiſe; for ſhe having no guide, governour, nor ruler, prepareth her meat in the Summer, and gathereth her food in the harveſt, Prov. 6.6, 7, 8, 9, &amp;c.</hi> If the word of God can<g ref="char:EOLhyphen"/>not inſtruct thee, yet learn of the little <hi>Piſmire</hi> to labour for thy ſelf, and not to burden others. <hi>How long wilt thou ſleep. O ſluggard, when wilt thou ariſe out of thy ſleep, Prov. 24.33, 34. Yet a little ſleep, a little ſlumber, a little <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olding of thy hands to ſleep. Therefore thy poverty cometh as one that travelleth by the way:</hi> (That is, ſuddenly, and when thou lookeſt not for it) <hi>and thy neceſſity like an armed man:</hi> It ſhall come in ſuch ſort, that thou ſhalt not be able to reſiſt it. <hi>Salomon</hi> expreſſeth lively the nature of the ſluggards, who though thy ſleep never ſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ong, yet have never enough but ſéek occaſſ<g ref="char:EOLhyphen"/>ions thereunto Idleneſs, one of the ſing of <hi>So<g ref="char:EOLhyphen"/>dom,</hi> it is ſaid, that <hi>abundance of Idleneſs</hi> was in <hi>her, and in her daughters. Ezek. 16.49.</hi>
+            </p>
+            <p>
+               <hi>David</hi> through idleneſs committed Adultery, is we may ſee, <hi>2 Sam. 11.2.</hi>
+            </p>
+            <pb facs="tcp:46847:4"/>
+            <p>
+               <hi>Syrach</hi> ſaith, That Idleneſs bringeth much evil, <hi>Eccluſ. 33.26.</hi> St <hi>Paul</hi> commanded, that he that would not work ſhould not eat, for ſaith he, <hi>We hear that there are ſome that work not at all, but are buſie bodies; therefore them that are ſuch, we command and exhort you by our Lord Jeſus Chriſt, that they work with quiet<g ref="char:EOLhyphen"/>neſs, &amp;c. 2 Theſs. 3.10, 11.</hi> for ſaith he, being idle, <hi>they go about from houſe to houſe;</hi> yea, <hi>they are not only idle, but alſo pratlers, and buſie-bodies, ſpeaking things that are not come<g ref="char:EOLhyphen"/>ly, 1 Tim. 5.13.</hi> Go to the Crane thou babler, read her ſtory, and let her inform thee, who fly<g ref="char:EOLhyphen"/>ing out of <hi>Sicily,</hi> puts little ſtones in<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver mouth, leſt by her gagling ſhe might betray her ſelf a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a prey to the Eagles of the Mountain <hi>Taurus;</hi> which with this policy ſhe ſlyes over in ſafety. Silence is every where ſafe-guarded, while an unruly tongue may procure ruine, and prove as a ſword to cut the thread of life in two. Where there is a flood in the tongue, there the heart is empty; in many words there is errour often committed, for truth doth conſiſt in few words. Better it is to make a ſmall ſcarre by ſpeaking little, than a deep wound by much babling. Silence is a gift without peril, and a treaſure without enemies, ſaith <hi>Phocion.</hi>
+            </p>
+            <p>Our Saviour ſaith, <hi>That for every idle word that man ſhall ſpeak they ſhall give an account
+<pb facs="tcp:46847:5"/>at the day of Judgement; for by thy words thou ſhalt be juſtified, and by thy words thou ſhalt be condemned, Mat. 12 36, 37.</hi> Therefore it doth highly concern every one to be every careful what they ſpeak.</p>
+            <p>About all things flye from idleneſs, for it's the mother of vice, and the ſtep-mother of all vertue; it is nothing indeed but a very death, and the Sepulchre of a man that is yet living. God would that man (which was indued with ſo many good gifts of perfection) ſhould not live idlely. Thou that liveſt here ſo compaſſed about with ſo many enemies, how much cauſe haſt thou to avoid idleneſs, and to flye away from it? God places <hi>Adam</hi> in Paradiſe, to the end that he ſhould labour and work there, <hi>Gen. 2.15.</hi> and yet he for all his labour, ſuſtained great loſs and harm, and thikeſt thou to gain, by living at thy own will and pleaſure? <hi>Job</hi> ſaith, <hi>Job 5.7. That man is born to trouble, as the ſparks flye upwards:</hi> and therefore God hath given thee two hands to work withal, as he hath given the Birds two wings to flye withal. He that goes about to ſhoot at any Bird, will not ſhoot at him as he flyeth, but will tarry and expect until he ſtand ſtill: ſo the devil will not ſeek to ſhoot at thee, or hurt thee when thou art well occupi<g ref="char:EOLhyphen"/>ed in any good work, but waiteth the time until that be may find thee idle, that he may then
+<pb facs="tcp:46847:5"/>ſtrike thee with his temptations, and take from thee the lift of thy ſoul: therefore thou muſt alwayes be occupied, that he Divil may never find thee idle. The Weſſel that is occupied, and full already, can contain no more in it, and the mind that is fully occupied about good things cannot admit of evil thoughts into it; but if the Devil findeth it unocuppied, he will put evil cogitations into it: The water which continu<g ref="char:EOLhyphen"/>eth running, bringeth forth good fiſh, but the ſtanding waters, or mariſhes, and lakes, do bring forth Frogs and Serpents, and that Fiſh that is in them, is unſavory and dangerous to eat of; and what canſt thou bring forth if thou be idle, but ſoul and diſhoneſs thoughts: drive away from thee all idleneſs, for if thou flyeſt not away from thy pleaſure, thou canſt not chuſe but he taken priſoner by a number of vices, <hi>1 Sam. 19.</hi> When <hi>David</hi> was occupied with the continual perſecution of <hi>Saul,</hi> he falls not into ſin, as he did afterwards when he was idle at home in his own Palace, <hi>2 Sam. 11.</hi> And when <hi>Solomon</hi> was occupied about his build<g ref="char:EOLhyphen"/>ing, he did not offend God; but when his work was at an end, and that he gave himſelf unto idleneſs; he committed very great offences, <hi>1 Kings 11.</hi> The Tribe of <hi>Dan</hi> ſearching out an inheritance to dwell in, they ſent five men out of their Coaſt, and they came to <hi>Laiſh,</hi> and they
+<pb facs="tcp:46847:6"/>ſaw the people which were therein, which dwelt cereleſs, and when they returned back unto their Brethren, the firſt motive that they uſed to encourage them for to go, was this, ſaid they, If <hi>you will go you ſhall come unto a care<g ref="char:EOLhyphen"/>leſs people: ſo they went up and ſmote the peo<g ref="char:EOLhyphen"/>ple with the edge of the Sword, and burnt the city, Judges 18.</hi> You that are given unto idle<g ref="char:EOLhyphen"/>neſs, ſloathfulneſs, and careleneſs, behold and conſider the end of theſe people, even the men of <hi>Laiſh,</hi> it cauſe their deſtruction; therefore be ye diligent: the men that went to view the Country of <hi>Laiſh,</hi> they ſaid to their Brethren do you ſit ſtill, be not ſloathful (as it they ſhould have ſaid) will you loſe this good occaſion through your ſloathfulneſs, <hi>v. 10.</hi> Then they uſed another motive to draw them from Idleneſs, ſaying, <hi>The Country is a place that doth lack nothing that is good in the world.</hi> Here you ſee that the Tribe of <hi>Dan</hi> through their diligence obtained this fruitful and plentiful Country which did lack nothing in the world: And thoſe idle people of <hi>Laiſh</hi> through their careleſneſs did not only loſe their City and their Country but it alſo cauſed the deſtruction of themſelves too: therefore flye from idleneſs and care<g ref="char:EOLhyphen"/>leſneſs, for fear the like judgement befal you.</p>
+            <pb facs="tcp:46847:6"/>
+            <q>
+               <l>While the Trojans were watchful, their City they kept,</l>
+               <l>But loſt it was when they ſecurely ſlept.</l>
+            </q>
+            <p>And when their City (through their careleſ<g ref="char:EOLhyphen"/>neſs) was all of ſlame, they cryed, <hi>Troja ſuit</hi> here was a <hi>Troy,</hi> or we had a <hi>Troy!</hi> haſt thou ſome thoughts of acting ſome bonourable enterprire, and doth idleneſs, ſloathfulneſs, or careleſneſs put as it were a blot in the way, ſaying it is too difficult or impoſſible for thee; I pray thee be not deluded by this flattering Sy<g ref="char:EOLhyphen"/>rian, for <hi>Nihil eſt ram difficile, ſed ex labore faci<g ref="char:EOLhyphen"/>cile vincatur,</hi> that is, there is nothing ſo hard but by labour is eaſily overcome, The Heathen Poet could ſay:
+<q>
+                  <l>By induſtry the Tygers gentle grow,</l>
+                  <l>And the wild Lyons may be tamed ſo:</l>
+                  <l>And the ficice Bull, whoſe ire doth provoke,</l>
+                  <l>By induſtry is brought to bear the yoke. Ovid.</l>
+               </q>
+            </p>
+            <p>Love overcometh all things, and diligence doth the like.</p>
+            <p>Idleneſs is the nouriſher of all carnal vice; if thou wilt flee from idleneſs thou ſhalt ſoon make all ſin and vice to famiſh in thee, for thereby thou takeſt away all the ſuſtenance that maintaineth it. <hi>Solomon</hi> ſaith, <hi>Prov. 10.16.
+<pb facs="tcp:46847:7"/>The labour of the righteous tendeth to life.</hi> Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> way to Heaven is full of travel and continual occupations of holineſs and vertuous exerciſes: If thou didſt but remember ſeriouſly all the time which thou doſt loſe, that thou muſt render a ſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ct account, or reckoning to the Al<g ref="char:EOLhyphen"/>mighty God, thou wouldſt not loſe one jot thereof. The Spirit of God doth ſhew it ſelf where it is, for it will ſuffer no idleneſs to reſt or harvour where it is, or where it remaineth. When thou art idle, thou boſt loſe the beſt thing which thou haſt, which is Time.</p>
+            <q>
+               <l>By ever learning Solon waxed old,</l>
+               <l>For time he knew was better far than Gold;</l>
+               <l>Nature might give him Gold which would decay</l>
+               <l>But nature could not give him yeſterday.</l>
+            </q>
+            <p>Gather thy Manna in the eve of the Sab<g ref="char:EOLhyphen"/>bath, that thou mayſt reſt when the Sabbath day cometh, <hi>Exod. 16.</hi> that is, take pains, and labour whilſt thou art in this life, that thou mayſt reſt and take thine caſe when that great feaſt of eternal Bliſs cometh. The Land that lyeth idle, and is not tilled, bringeth forth no<g ref="char:EOLhyphen"/>thing but bryers, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rns, &amp; unprofitable woeds, and if thou doſt not flye from idleneſs, thou canſt not chuſe but thy heart will be full of evil
+<pb facs="tcp:46847:7"/>thoughts. S. <hi>Pſul</hi> ſaith, <hi>Gal. 5.15.</hi> Take heed therefore that you walk circumſpectly, not as fools, but as wiſe; occupy therefore the land of thy heart, in good and holy exerciſes, to the in<g ref="char:EOLhyphen"/>tent that thou mayeſt ever be doing of good works, and bring forth the fruits thereof. Chriſt teacheth by a ſimilitude, that he always caſteth man to labour: <hi>A certain houſe-holder went for to hire labourers into his vineyard, Mat. 20.</hi> He went about the ſixth hour, and about the eleventh hour, and always found ſome ſtanding idle, and he began to reprove them, ſeying, <hi>Why ſtand ye here all the day idle? and he ſaid, Go into my vincyard.</hi> This ſimilitude doth plainly demonſtrate unto us, that God would not have us be idle at no time of the day. <hi>Solomon</hi> ſaith; <hi>Prov. 10.4. A ſloathful hand maketh poor, but the hand of the diligent maketh rich. Chap. 13. 4. The ſluggard luſteth; but his ſoul hath nought, but the ſoul of the diligent ſhall have plency. Chap. 18.9. He alſo that is ſoathful in his work is even the Brother of him that is a waſter. Chap. 19.15. Sloathfulneſs cauſeth to fall a ſleep. Chap. 20.13. Love not ſleep, leſt thou come to poverty, open thine eyes, and thou ſhalt be ſatisfied with bread:</hi> Fly from ſtoath leſt thou fall a ſleep, and love not ſleep leſt thou come to poverty: but open thine eyes to be obligent and thou ſhalt be ſatisfied with all things neceſſary
+<pb facs="tcp:46847:8"/>for thee. <hi>verſe 4. The ſloathful will not plow, becauſe of Winter, therefore ſhall he beg in the Summer but have nothing, Chap. 21.25, 26. The deſire of the ſloathful ſlayeth him, for his hands refuſe to labour:</hi> he thinketh to live by withing and deſtring all things, but will take no pains to get it; for ſaith the wife man, <hi>He coveteth evermore greedily, Chap. 22.13. The ſloathful man ſaith a Lyon is without. I ſhall be ſlain in the ſtreet. Solomon</hi> derideth them that invent vain excuſes becauſe they would not do their duty, <hi>Prov. 26.13, 14, 15. As the door turneth upon the hinges, ſo doth the ſloathful man upon his bed. Chap. 19.24. The ſloathful hideth his hand in his boſome, and it grieveth him to put it again to his mouth. Chap. 15.19. The way of the ſloathful man is an hedge of thorns,</hi> be ever find<g ref="char:EOLhyphen"/>eth ſome let or ſtay, and will not go forwards. <hi>By ſloathfulneſs the roof of the houſe goeth to decay, and by the idleneſs of the hands the houſe droppeth through, Eccleſ. 10.18. I paſſed by the field of the ſloathful, and by the vineyard of the man deſtitute of underſtanding, and loe it was all grown over with thorns, and nettles had covered the face thereof, and the ſtone wall thereof was broken down; then I beheld and conſidered it well, I looked upon it, and received inſtruction Prov. 24.30, 31, 32.</hi> Herein appeareth one chief point of <hi>Solomons</hi> wiſdom: that is to con<g ref="char:EOLhyphen"/>ſider,
+<pb facs="tcp:46847:8"/>and look upon the errours of other men, and thereby learn to eſchew them; for to ſee the great loſs and detriment that cometh of idleneſs and ſloathfulneſs, and conſidering of it to become diligent, and laborious, is ſurely a great ſign of a wiſe and prudent man; he is hap<g ref="char:EOLhyphen"/>py that by other mens faults doth learn to be<g ref="char:EOLhyphen"/>ware.</p>
+            <p>That ſervant which had one Talent delive<g ref="char:EOLhyphen"/>red unto him, <hi>Mat. 25.26, 28, 30.</hi> he through ſloathfulneſs hid it, and did not occupy it: his Maſter ſaid unto him; <hi>Thou evil ſervant, and ſloathful,</hi> for ſo he called him, and he ſaid, <hi>Take the Talent from him,</hi> (moreover he ſaid) <hi>Caſt therefore that unprofitable ſervant into utter darkneſs, there ſhall be weeping and gnaſhing of teeth:</hi> there is nothing but meer darkneſs out of the Kingdom of Heaven. Here we ſee that ſloathfulneſs doth not only loſe all things in the world (as the men of <hi>Laiſh</hi> did) but alſo eternal happineſs hereafter, for ſaid the Maſter, <hi>Caſt that unprofitable ſervant into utter darkneſs.</hi> Now ſith it is ſo, who is it that will or dare give themſelves unto idleneſs, or ſloathfulneſs, ſeeing by it, we do not only loſe all things that are good here, but alſo hereafter.</p>
+            <p>
+               <hi>Syrach</hi> ſpeaking of the ſluggard, ſaith, <hi>Eccluf. 22.1, 2. A ſloathful man is like a filthy ſtone, which every man mocketh at for his ſhame. A
+<pb facs="tcp:46847:9"/>ſloathful man is to be compared to the dung of oxen, and every man that taketh it up will ſhake it out of his hand.</hi> Like as the idle ſtone gathe<g ref="char:EOLhyphen"/>reth moſs and filth, ſo doth the ſloathful both ſickneſs of body, and corruption of mind.</p>
+            <p>Thus in brief you have heard what idleneſs is, and the fruits of it, for firſt it reacheth men to do evil, and it is the ſink which receiveth all the filty channel of vice, and with that poiſo<g ref="char:EOLhyphen"/>neth and infecteth the ſoul, it's an enemy to her<g ref="char:EOLhyphen"/>tue, and the very train to all wickedneſs, it loſ<g ref="char:EOLhyphen"/>eth time, it dulls the underſtanding, it nouriſh<g ref="char:EOLhyphen"/>eth humours, It diſpleaſeth God, it's the mother of poverty, it's the ſtep-mother of wiſdom, and the ready way to Atheiſm, and it kindles luſt. <hi>Carthage</hi> was overcome, and <hi>Rome</hi> came to ruine through it. It cauſeth evil and diſhoneſt thoughts, it opens the gate to all wickedneſs, it's one of the ſitis of <hi>Sodom,</hi> and by it <hi>David</hi> committed Adultery, it bringeth much evil and it cauſeth them be medling where it doth not concern them, and ſo are called prattlers, and buſte-bodies, ſpeaking things that are not comely: we muſt give account for every idle word: through idleneſs we are in danger to loſe all t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ings in this world: <hi>Solomon</hi> through idle<g ref="char:EOLhyphen"/>neſs committed great offences, yea, it cauſed the people of <hi>Laiſh</hi> to loſe their City and their Country and the deſtruction of themſelves too.
+<pb facs="tcp:46847:9"/>It cauſed the City of <hi>Troy</hi> to be all on a flame; therefore flye from idleneſs, and thou ſhalt ſoon make all ſin to famiſh in thee; for it is the ſuſte<g ref="char:EOLhyphen"/>nance that maintains it. That land that lyeth idle, bringeth forth nothing but bryers, thorns, and thiſtles: by idleneſs the roof of the houſe droppeth through. And beſides all this, thou art in danger thereby to be caſt into utter darkneſs. The Prophet <hi>Jeremiah</hi> ſaith, <hi>Jer. 48.10, 11. Curſed be he that doth the work of the Lord negligently;</hi> and in the next verſe he ſaith, <hi>Mo<g ref="char:EOLhyphen"/>ab hath been at reſt from his youth, and he hath ſetled on his lees: Zeph. 1.12. But the Lord will ſearch Jeruſalem with lights, and viſit the men that are frozen in their dregs, and ſay in their heart, The Lord will neither do good nor evil:</hi> Thus you ſee what a dangerous condition the idle, ſloathful, careleſs, and ſecure ones are in. Firſt they are careleſs of Grace, and the means of it, as the Word, Repentance, Faith, prayer, <hi>&amp;c.</hi> Secondly, they are fearleſs of Gods Judgements. Thirdly, they are ſeelingleſs of the beavy burthen of their ſins; ſo that the ſpirit of ſlumber is a binding up of their faculties &amp; depriving them of the exerciſe of grace: To them grace is no care, judgment is no fear, ſin is no ſorrow, their ignorance doth grow, and they are negligent in matters of ſalbatt<g ref="char:EOLhyphen"/>on, they are careleſs in Gods ſervice, like
+<pb facs="tcp:46847:10"/>unto that careleſs ſervant, that began to eat and drink, and to be drunken, <hi>Matthew 24.</hi> They delay repentance; ſecurity ſoundeth it is not yet time, they ever dream of felicity, boaſting of their own bearts deſire: With the Dolphin they ſwim in delights, when deſtruction is near<g ref="char:EOLhyphen"/>eſt, till at laſt ſecuritles maid wofully cryed the hour is paſt.</p>
+            <p>Joleneſs and careleſs is the fore-runner, either of groſs ſins, great croſſed, or moſt ter<g ref="char:EOLhyphen"/>rible judgements, it emptteth the heart of Grace, and it ſweepeth and garniſheth it for Satan: God will hide his face and trouble ſhall follow. The rich man that had much goods laid up for many years, ſaid to his ſoul, <hi>Luke 12. 20, 16. Live at caſe; And God ſaid unto him, O fool, this night will I fetch away thy ſould from thee. I Thef. 5.3. When they ſhall ſay peace and ſafety, then ſhall ſudden deſtruction come upon them, as the travel upon a woman with child, and they ſhall not eſcape,</hi> it ſhall be felt before it be ſeen like a Thief in the night. <hi>Woe to them that are at caſe in Sion, Amos 6.1. Gideon</hi> ſmote the careleſs boaſt: ſecuity was the overthrow of <hi>Laiſh, Judg. 8.11. and 18.7, 10, 27.</hi>
+            </p>
+            <p>The good man of the houſe awaketh to ſave his goods from the Thief, the Husbandman for his Harveſt, the Merchant for his Wares, the Souldier for his ſpoil: ſhall me loſe and
+<pb facs="tcp:46847:10"/>eternal crown with ſleeping? He that hath the key of <hi>David</hi> hath opened the may: the way is opened but yet narrow. Awake and ſtrive to en<g ref="char:EOLhyphen"/>ter in: <hi>Matthew 25.</hi> When the Juilvee is paſt, the fooliſh cry open, open; ſome awake a little and begin a little to enter in; but finding the way ſtract; firſt with <hi>Lots</hi> wife they look back, <hi>2 Pet 2.5.</hi> then with <hi>Demas</hi> they turn back, and with the dog they run back to their vomit. When thou thinkeſt upon that crown, think therewithal upon this word <hi>Few,</hi> few enter in, few are choſen; in the great deluge, <hi>ver. 8. few</hi> ſouls were ſaved; in the overthrow of <hi>Sodom, but Lot</hi> was ſaved. Amongſt the ſirty three thouſand five hundred and fifty of the people of <hi>Iſrael,</hi> only <hi>Joſhua</hi> and <hi>Caleb</hi> entred into the Land: Therefore unceſſantly importune that holy one of <hi>Iſrael</hi> like the urgent widow]. be not fole, or ſloathful, but diligent and bigilant. Leave him not till with <hi>Jacob</hi> thou get a bleſſing.</p>
+            <div type="part">
+               <pb facs="tcp:46847:11"/>
+               <head>A word or two of the Definition of Drunkenneſs.</head>
+               <p>The drink to the betrayer of the mind, and doth diſapparel the Sould, yea the thoughts of the heart (which God hath ſecluded from the very devils) by drunkenneſs do ſuffer a ſeach: the Devil could never find a cunninger bait, to angle both for the acts and meanings of men, than drunkenneſs is. You ſhall ſcarcely find a man that is much addicted to drink that is not ruined. What a monſter is man in drunken<g ref="char:EOLhyphen"/>neſs, he hath a ſwimming eye, a face both roaſt and ſod, and a tongue clammed to the roof and gums a drumming ear, a feavered body, a boll<g ref="char:EOLhyphen"/>ing ſtomach, a mouth naſty with offenſive ſumes till it ſicken the brain, a paſſed head, and legs tottering up and down their mictuned burthen; be hath no memory at all, for the abundance of drink hath drowned up that noble recorder; and while <hi>Bacchus</hi> is his chief God, <hi>Apollo</hi> never keeps him company, friends and ſoes, famili<g ref="char:EOLhyphen"/>ars and ſtrangers, are then of equal eſtéem.</p>
+               <p>Drunkenneſs is the funeral of all intelligi<g ref="char:EOLhyphen"/>ble
+<pb facs="tcp:46847:11"/>men; A drunken mind, and a drunken ſto<g ref="char:EOLhyphen"/>mach are both alike, neither can retain what they receive: I will loath to admit of familiar to infectious as this. The wiſe man adviſe to us to the contrary, ſaying, <hi>Prov. 23.20.21. Keep not company with drunkards, nor gluttons; for the drunkard and the glutton ſhall be poot.</hi> And St. <hi>Paul</hi> ſaith, <hi>1 Cor. 5.11. If any man that is called a Brother be a forcinator, or covetous, or an idolater, or railer, or a drunkard, or an <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>x<g ref="char:EOLhyphen"/>tortiore, with ſuch a one eat nor.</hi> St. <hi>Paul</hi> asks a queſtion and anſwers it himſelf, ſaying, <hi>1 Cor. 6.9, 10. Know ye that the unrighte<g ref="char:EOLhyphen"/>ous ſhall not inherit the Kingdom of God? Be not deceived, neither fornicators, nor Idola<g ref="char:EOLhyphen"/>tors, nor adulterers, nor wantons, nor buggerers, nor thieves, nor covetous, nor drunkards, nor railers, nor excortioners ſhall inherit the King<g ref="char:EOLhyphen"/>dom of God. Gal. 5 19, 20, 21. The works of the flaſh are maniſeſt, which are adultery, forni<g ref="char:EOLhyphen"/>cation, uncleanneſs, wantonneſs idolatry, witch<g ref="char:EOLhyphen"/>craſt, hatred, debate, emulation, wrath, contenti<g ref="char:EOLhyphen"/>on ſedition, hereſies, envies, murthers, drunken<g ref="char:EOLhyphen"/>neſs, gluttony, and ſuch like, whereof I tell you as I have told you before, that they which do ſuch things, ſhall not inherit the Kingdom of God.</hi> The Apoſtle in theſe two places reckons more than twenty damnable ſins, and the drun<g ref="char:EOLhyphen"/>kard, the glutton, and the railer, do as it were
+<pb facs="tcp:46847:12"/>bring up the rear of this wicked and ungodly Kegiment. I beſéech you caſt your eyes back, if ſerioſty conſider, whether thou art at league with any of theſe ſoul-deſtraying ſotdiers, for if thou be, thy ſtate is dangerous: Therefore sée<g ref="char:EOLhyphen"/>ing that we hand ſo many ſtrange enemtes to encounter withal, we have great cauſe to take St. <hi>Pauls</hi> counſel, <hi>Epheſ. 6.11. &amp;c.</hi> for to be ſtrong in the Lord, <hi>and to put on the whole ar<g ref="char:EOLhyphen"/>mour of God:</hi> That we amy be abſe for to wrattle, and to overcome thoſe potent enemies. Whatſoever friend I make choice of, I hope for to have them endowed with theſe two vertues (that is) mildneſs and temperance: An excellent Caveat. <hi>Luke 21.54. Take heed to your ſelves leſt at any time your hearts be oppreſſed with ſurfeiting and drunkenneſs, &amp;c.</hi> Drunkenneſs of the <hi>Hebrews</hi> is called wine-viving; then S. <hi>Pauls</hi> counſelde not to be deſpiſed; <hi>Epheſ. 5.15, 16, 17, 18.</hi> Take heed therefore that ye walk cir<g ref="char:EOLhyphen"/>cumſpectly not as fools, but as wiſe redeeming the time, for the dayes are evil: wherefore be ye not unwiſe, but underſtand what the will of the Lord is, and be not drunken with wine, wherein do exceſs. <hi>Paul</hi> doth not forhid the uſe of wine but the abuſe of it: for to <hi>Timothy</hi> he ſaid thus, <hi>1 Tim 5.23. Drink no longer water. but uſe a little wine for thy ſtomachs ſake, and thine of ten infirmities. Solomon</hi> ſaith, <hi>Prov. 31.6, 7,
+<pb facs="tcp:46847:12"/>Give ye ſtrong drink unto him that is ready to periſh, and wine unto them that have grief of heart. Let him drink that he may forget his po<g ref="char:EOLhyphen"/>verty, and remember his miſery no more. Pſal. 104, 15. Wine maketh glad the heart of man.</hi> Strong drink is the good creature of God, pure to the pure; Which ſerveth, I Naturally for the bodies nouriſhing and ſtrength, and to be uſed with ſobriety. <hi>2.</hi> Phyſically for the corro<g ref="char:EOLhyphen"/>boration of the body, and refreſhing of the mind. Wine (ſaith <hi>Auſtin</hi>) moderately drunken is medicinable, but drunken more than need re<g ref="char:EOLhyphen"/>quireth, it conſumeth, it's poison.</p>
+               <p>Drunkenneſs is not only when wine hath baniſhed wit, which may ſoon overtake a weak brain, but alſo when one doth ſit long at drink. albeit their brain were ſtrong enought to hear it, which is called, <hi>Prov. 23.30. Once that tarri<g ref="char:EOLhyphen"/>eth long at wine, that goeth and ſeeketh mixt<g ref="char:EOLhyphen"/>wine.</hi> Such kinds of drinking, are as well con<g ref="char:EOLhyphen"/>demned, as ſtaggering ebriety; ſuch like drun<g ref="char:EOLhyphen"/>kenneſs is called a boiling, chaſing, or waring too bot with wine. Some delight to be drunk alone, ſome provoke others to do the ſame, ſome drink by meaſure, out of meaſure: the drunkard ſaith, do me reaſon, while as both his ormand, and the others grant is altogether reaſonleſs. All theſe ſorts are affected with this malady and with this bilect vice diſeaſed: cuſtom maketh this
+<pb facs="tcp:46847:13"/>diſeaſe contagious to mang; uſe altereth nature, and cuſtom brings Ydle ſuperfluity to urgent neceſſity: Firſt. the drunkard drinks for thirſt, then for delight, at laſt for wantonneſs, and then without meaſure, by an unſattate holuptuouſ<g ref="char:EOLhyphen"/>neſs, When I name wine, it is to be taken (Synecdochically) for all for is of ſtrong drink: one drunkard is the cauſe of another, taping, <hi>Iſa. 50.12. Come I will bring wine, and we will ſill out ſelves with ſtrong drink, and to morrow ſhall be as this day &amp;c much more abundant, as the</hi> challenged drunkard both allenge, <hi>Prov. 23.20. that company cauſeth him, who forced him with, either drink or get thoe gone, 1 Cor. 5.11. wiilſt, they are expceſſy forbidden to keep company with drunkards and gluttons, Epheſ. 5.11. and that thou ſhouldeſt babe no fellowſhip with the unfruitful works of darkneſs. But a graceleſs heart, turning the grace of Bod into wanton, neſs, and having the mind feeble and meak, ſuf<g ref="char:EOLhyphen"/>fereth ſenſuality to reign ober reaſon, and grace, St. Jude ſaith, Jude 12. Theſe are ſpots in your ſeaſts of charity, when they feaſt with you without all fear, &amp;c. v. 12. theſe are mur<g ref="char:EOLhyphen"/>murers, complainers, walking after their own Luſts, whoſe mouths ſpeak proud things, &amp;c. 2 Per. 2.10, 12, 13.</hi> Theſe are makers of ſects, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſhip, having not the ſpirit (of regeneration) <hi>they ſhall receive the wages of unrighteouſneſs.
+<pb facs="tcp:46847:13"/>1 Theſ. 5.6, 7, 8. Therefore let us not ſleep as do others, but let us watch and be ſober:</hi> here ſleep is taken for contempt of ſalvation: when men continue in fins, and will not awake to godli<g ref="char:EOLhyphen"/>neſs: <hi>for they that ſleep, ſleep in the night, and they that be drunken, are drunken in the night; but let us which are of the day ſober, putting on the breaſt-plate of ſaith, and love, and the hope of ſalvation for an helmet. Eph. 6.17.</hi> The wiſe man ſaith, <hi>Eccleſ. 10.17. Bleſſed art thou, O Land , when thy King or Governours, eat in time for ſtrengh and not for drunkenneſs.</hi> They that drink for drinks ſake are too uſuall at drink<g ref="char:EOLhyphen"/>ings (who as <hi>Demoſthenes</hi> ſaid, to King <hi>Phi<g ref="char:EOLhyphen"/>lip)</hi> Spunges, who want but a wide womb to their wanton will. Some think that drink is given of God not only for neceſſity, but alſo for delectation; thinking thereby they may exceed as they pleaſe; they conſider not that ſtrong drink was given to men, to thear the beart, and not to oppreſs it, and to praiſe God for it, and not too offend him with it of by it. Some think that drunkeneeſs is phyſical, wherein they fooliſhly erre, eſteeming the poiſon of the ſoul to be good phyſtek for the body: when the medicine is ſo filthy, the healing of curing is thought to be as filthy,</p>
+               <p>A drunkard is like a L<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ch that ſtill ſucketh and cannot be ſatisfied. When neceſſity is ſa<g ref="char:EOLhyphen"/>tisfied,
+<pb facs="tcp:46847:14"/>inſolency ſalts his appetite, he backs his drunkenneſs with Tobacco, that by all the four elements, earth, wanter, aire, and fire, he map be intoxicated. Drunkenneſs as it harkeneth the wit, and petherteth the imagi<g ref="char:EOLhyphen"/>nation: ſo beyond all the affections it ſtirreth up choler, by a conveniency of the ſulphurous heat that is both in drink and in the bilious humour concurring to make the greater flame, to kin<g ref="char:EOLhyphen"/>dle up the heart for the ſmaltest injury. <hi>Camby<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi> the King of <hi>Perſia</hi> in his drunkenneſs was in<g ref="char:EOLhyphen"/>cenſed at the gentle reproof of his minion <hi>Prax<g ref="char:EOLhyphen"/>aſpes,</hi> and kilted his ſon. <hi>Alexander</hi> at the wine killed in his fooliſh fury his moſt lobing <hi>Clitus,</hi> for the which whin be was ſober again, be at<g ref="char:EOLhyphen"/>tempted to kill himſelf. Anger is a madneſs ſhort and voluntary, and an inſatiable evit.</p>
+               <p>
+                  <hi>Philoxenus</hi> wiſhed a Cranes crag, and <hi>Melan<g ref="char:EOLhyphen"/>th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us</hi> a Swans neck of three cubits long, that they might by the longer ſpace enjoy the plea<g ref="char:EOLhyphen"/>ſure of their drink: his life is <hi>vita Ranarum,</hi> a Frogs life, ſaith <hi>Eraſmus.</hi> Frogs love to live in mooriſh places, be in his pots, like aflye (ſuctu<g ref="char:EOLunhyphen"/>vivit) be liveth by ſucking. Wine is the mir<g ref="char:EOLhyphen"/>rour of the mind; be is like <hi>Bonoſus,</hi> who was born not in like, but to drink, faith Aurelianus. Be drinks for delight. for company, for bra<g ref="char:EOLhyphen"/>bery,
+<pb facs="tcp:46847:14"/>for contention, and for inflamed charity, to abſent friends, his belly is his God, <hi>Phil. 3.19.</hi> and is unfit for the ſervice of that high God, <hi>I. Theſ. 5.17.</hi> He abuſeth his creatures, ſhameth himſelf, and is enabled to ſin: when he ſhould mourn, be is merry, ſaping to morrow we ſhall dye, <hi>and he drinks wine in bowls when he ſhould be ſorry for the affliction of Joſeph, Amos 6.6.</hi> like the Epicure, which ſaith, let us eat, drink, ſure, The Lord God of hoſts callo unto weeping and <hi>mourning, and behold joy, and gladneſs, flaying oxen and killing, ſheep, eating fleſh, and drinking wine, Iſa. 22.12, 13.</hi> inſtead of repen<g ref="char:EOLhyphen"/>tance, they contemned the admonition of their teachers, ſaying, <hi>Let us eat and drink for our Prophets ſay, we ſhall dye to morrow.</hi> But con<g ref="char:EOLhyphen"/>ſider immediately after what if Prophet ſaith, <hi>Ch. 24.7, 9. The wine ſaileth, the wine hath no might, all that were of merry heart do mourn. They ſhall not drink wine with mirth, ſtrong drink ſhall be bitter to them that drink it.</hi> The Loro pronounceth woe upon woe to drunkards, <hi>Chap. 5.11, 22. Woe unto them that riſe up ear<g ref="char:EOLhyphen"/>ly to follow drunkenneſs, and to them that con<g ref="char:EOLhyphen"/>tinue until night, till the wine do inflame them. Woe unto them that are mighty to drink wine, and to them that are ſtrong to pour in ſtrong drink.</hi> Four ſeveral times doth the Prophet
+<pb facs="tcp:46847:15"/>pronounce woes to drunkards in one chapter. The wife man ſaith, <hi>Prov. 23.29, 30.32. To whom in woe, to whom is ſorrow, to whom is ſtrife, to whom is murmuring, to whom are wounds without cauſe, and to whom is redneſs of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>even to them that tarry long at the wine &amp;c. In the end thereof it will bite a ſerpent, and ſting like an adder.</hi>
+               </p>
+               <p>Now ſeeing that there is ſuch a ſtrong chain that is linked together with ſo many woes, which reacheth as far as betwixt the drunkard and deſtruction (except repentance break this chain) it will aſſuredly draw down vengance upon thy body, or ſoul, or both: Now therefore ſeeing it is ſo, Chriſts Caveat is not to be re<g ref="char:EOLhyphen"/>jected, <hi>Luke 21.34. Take heed to your ſelves, leſt at any time your hearts be oppreſſed with ſur<g ref="char:EOLhyphen"/>feiting, and drunkenneſs, and cares of this life, and l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt that day come on you at unaweres.</hi>
+               </p>
+               <p>Bing <hi>Belſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>zzar</hi> made a great feaſt to a thou<g ref="char:EOLhyphen"/>ſand of his Princes, and they drank wine in the golden veſſels, which his father had brought from the Temple in <hi>J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>m, D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n. 5.</hi> At the ſame hour appeated the ſingers of a mans hand which wrote, <hi>&amp;c.</hi> Then the Kings countenance was changed, and his thoughts troubled him: to the joynts of his loins were looſed, and his knées ſmote one againſt another; and the ſame night was <hi>B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lſhazzar</hi> the King ſlain: here we
+<pb facs="tcp:46847:15"/>ſee how near drunkenneſs and deſtruction was lir<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ked: the ſame hour his thoughts troubled him, and the ſame night he was ſlain. The vine brings forth three Grapes, the firſt of pleaſure, the ſecond of drunkenneſs, the third of ſorrow. It is folly to rebuke a drunken man: example we have of <hi>Abig<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>il,</hi> a woman of ſingular wiſ<g ref="char:EOLhyphen"/>dom, <hi>1 Sam. 25.36, &amp;c. For ſhe came to Nabal her husband, and behold he made a feaſt in his houſe, like the feaſt of King and N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bals heart was merry within him, for he was very drunken; wherefore ſhe told him neither leſs nor more, until the morning aroſe; then in the morning when the wine was gone out of Nabal, his wife told him (that David</hi> had bowed to deſtroy both him and all his houſe for denying of his ſervants that ſmall requeſt which they deſired: and the text ſaith) <hi>when ſhe had told him thoſe words, his heart died within him, and he was like a ſtone, &amp; about ten days after the Lord ſmote N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bal that he died.</hi> From hence we may gather how cloſe drunkenneſs and deſtruction are linked toge<g ref="char:EOLhyphen"/>ther<g ref="char:punc">▪</g> Wine hath as much force as fire, for as ſoon as it overtaketh one, it diſpatcheth him, it diſcloſeth the ſecrets of his ſoul, and trou<g ref="char:EOLhyphen"/>bleth the whole mind. Wine is the blood of the earth, and the ſhame of ſuch as abuſe it. Mark the end of Drunkards, and abhor their wicked<g ref="char:EOLhyphen"/>neſs, <hi>Iſa. 28.1. Woe to the Crown of pride, the
+<pb facs="tcp:46847:16"/>drunkards of Ephraim, whoſe glorious beauty is a fading flower, which are on the head of the fat valleys of them that are overcome with wine. ver. 7, 8. They have erred becauſe of wine, and are out of the way by ſtrong drink,; the Prieſts and the Prophets have erred by ſtrong drink they are ſwallowed up with wine, they have gone aſtray through ſtrong drink, they fail in viſion, they ſtumble in judgment: for all their tables are full of filthy vomiting, no place is clean.</hi> From hence we may gather this thréefold ob<g ref="char:EOLhyphen"/>ſervation: Firſt there is pronounced woe to the Drunkards, their glorious beginning ſhall have a fading or ſteril concluſion. Secondly, the drunkards they err, they are out of the way, <hi>They fail in viſion, they ſtumble in judgment. Syrach,</hi> ſaith, <hi>Eccleſ. 19.1, 2.</hi> Wine and women lead wiſe men out of the way, and put men of underſtanding to reproof. A labouring man that is given to drunkenneſs, ſhall never be rich, ſaith <hi>Syrach. Lots</hi> Daughters made their Fa<g ref="char:EOLhyphen"/>ther drink Wine, and then lay with him, <hi>Gen. 19.33. But he perceived not neither when they lay down, neither when they roſe up.</hi> Wine had ſo obſcured his judgement, and ſo darkened his underſtanding, and ſo be fell into that ſin of inceſt with his own Daughters. Laſtly, the loathſomneſs of drunkenneſs, <hi>All their ta<g ref="char:EOLhyphen"/>bles are full of ſil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y vomitings, no place is clean;</hi>
+                  <pb facs="tcp:46847:16"/>what can be more filthy? <hi>Ambroſe</hi> ſaith, the firſt evil of drunkenneſs, is the danger of chaſti<g ref="char:EOLhyphen"/>ty. Nothing maketh drunkenneſs to be more abhored than the filthy and beaſtly behaviour of thoſe men, whoſe ſtomachs are overcharged with exceſs. The Lace demonians would often ſhew their Children ſuch as were drunk, to the end they ſhould learn to loath that vice: it is a monſter with many heads, as filthy ta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k forni<g ref="char:EOLhyphen"/>cation, wrath, murther, ſwearing, curſing and ſuch like. The <hi>Spartans</hi> cauſed their children to behold their ſlaves when they were drunken; to move them to the deteſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ation of that vice. Wine inflameth the liver, rotteth the lungs, dulleth the memory, and breedeth all diſeaſes: There<g ref="char:EOLhyphen"/>fore flee from drunkenneſ, for it is the Authour of a thouſand evils, it maketh wiſe men fools, and it bringeth diſeaſes to the body, and de<g ref="char:EOLhyphen"/>ſtruction to the ſoul: it is that vice with ſtir<g ref="char:EOLhyphen"/>reth up luſt, anger, grief, and extremity of love: it diſtempers the wit, weakeneth the feet, and overcometh the vital ſpirits, ſaith <hi>Ariſtotle.</hi> It burns up beauty, and baſteneth age, it's a he witching Devil, a pleaſant poi<g ref="char:EOLhyphen"/>ſon, &amp; a ſweet ſin, ſaith <hi>Auguſtine.</hi> Drunkenneſs maketh of a man a Beaſt, a ſtrong man weak and of a wiſe man a fool, ſaith <hi>Origen.</hi> Where drunkenneſs is miſtris, there ſecreſie beareth no maſtery. Steal is the glaſs of beauty, end
+<pb facs="tcp:46847:17"/>wine is the glaſs of the mind, it is a root prover to every diſeaſe, ſaith the heathen man <hi>Plato.</hi> It hath drowned more than the Sea hath drow<g ref="char:EOLhyphen"/>ned: Drunkenneſs makes a man more bruitiſh than <hi>Balaams</hi> Aſs, be could walk and talk; but many times a drunkard can do neither. <hi>An<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>charſis</hi> ſaith, the firſt draught that a man drinks is for thirſt, the ſecond for nouriſhment, the third for pleaſure, and the fourth for madneſs. O what a voluntary madneſs do drunkards run into when four draughts will not ſatisfie their unſatiable deſires! no, notten times four. Surely, ſurely, they are more frantick than thoſe in <hi>Bedlam.</hi> Drunkenneſs darkens the wit, it perverts the Imagination, and it ſtirs up choler. <hi>Plato</hi> bade drunken and angry men to behold themſelves in a glaſs, and if they will do ſo, here is one wherein they may behold them<g ref="char:EOLhyphen"/>ſelves moſt clearly. Drunkenneſs is nothing elſe but a voluntary madneſs. What is more vile and loathſome than is the drunkard, whoſe mouth is the lodge of poiſonous ſavoure-whoſe body through exceſs doth tremble and ſhake; whoſe promiſes are large, whoſe tongue be<g ref="char:EOLhyphen"/>wrayeth ſecrets, whoſe mind is ſpon changed, whoſe countenance is transformed; for com<g ref="char:EOLhyphen"/>monly when the head is full of wine the tongue is ſet at liberty; neither is be content with many ſorts of wine, but he drowneth himſelf or
+<pb facs="tcp:46847:17"/>his ſenſes in variety of liquor, making himſelf the monſte of exceſs, it's the nurſery to all contention, it kindles the coals of wrath, and is the root of all miſchief, and the ready road to ruine. <hi>Gen. 9.</hi> Drunkenneſs did diſcover the privy parts of <hi>Noah,</hi> and cauſed <hi>Lot</hi> to commit inceſt, <hi>2 Sam. 13.28.</hi> Drunkenneſs ſlew <hi>Am<g ref="char:EOLhyphen"/>non,</hi> King <hi>Davids</hi> Son, and murdered <hi>Holo<g ref="char:EOLhyphen"/>ſernes,</hi> chief Captain of the Army, for it is ſaid that <hi>he drank more wine that day, than he had in any day ever ſince he was born, Judith 12.20. and 13.2.</hi> be was filled with wine, and <hi>Judith</hi> ſlew him in his drunkenneſs. The Leopard can<g ref="char:EOLhyphen"/>not ſo ſoon be taken by any thing as by wine, for being drunk be falleth into the topis. Be not drunken with wine, for wine turneth a mans underſtanding away from the truth, and kindleth in him the fire of luſt, leading his eyes into er<g ref="char:EOLhyphen"/>rour: it's a ſervant to luſt, and it turneth the mind to filthy thoughts, and ſin is wrought without ſhame: a drunken man is aſhamed of nothing: therefore he that drinketh wine had need of diſcretion, that be do not over-drink him<g ref="char:EOLhyphen"/>ſelf, for drunkenneſs cauſeth him to talk filthi<g ref="char:EOLhyphen"/>ly, and to do wickedly, &amp; not to be aſhamed, but to boaſt of his lewdneſs, thinking it to be very good. Wine is a cauſe of <hi>War and ſedition, but being ſoberly drunken, it's profitable for the life of man, Eccleſ. 31.27, 28, 29, 30.</hi> What is
+<pb facs="tcp:46847:18"/>his life that is overcome with wine: wine was made from the beginning to make men glad, not for drunkenneſs. Wine drunken with ex<g ref="char:EOLhyphen"/>ceſs maketh bitterneſs of mind, with braw<g ref="char:EOLhyphen"/>lings and ſcoloings. Drunkenneſs increaſeth the rage of a fool, till he offend, it diminiſheth ſtrength and maketh wounds. St. <hi>James</hi> ſaith, <hi>James 3.16. Where envying and ſtrife is, there is ſedition, and all evil works.</hi> Thus you ſee that all manner of evil that is under the Sun, is cauſed, or cometh by drunkenneſs. Of all vices drunkenneſs is the worſt, and of all ſinners, the drunkard is the moſt hainous, it being a com<g ref="char:EOLhyphen"/>pendium, an epitome of all other offences, and the ſinner by it is made fit for any, for all enor<g ref="char:EOLhyphen"/>mities. Man, when he is at y beſt is good for lit<g ref="char:EOLhyphen"/>tle, but when he is drunk, he is good for nothing: he is then made ſuch light ſtuff, that the Devil may carry him whither he liſleth at a every blaſt, which we may plainly ſee, if we do but conſider how every breath he draws in drives him from one ſide of the ſtreet to another.</p>
+               <p>The <hi>Lacedemonians</hi> to make this vice odious to their children. Would ſhow them their ſer<g ref="char:EOLhyphen"/>vants when they were drunk: Though I com<g ref="char:EOLhyphen"/>mend not their act, yet I cannot diſlike their and. Though to make their Servants drunk, were a fault in the act, yet by it to make their children ſhun that Swiniſh vice, was vertue in
+<pb facs="tcp:46847:18"/>the end: but we are otherwiſe taught; not to do evil that good may come there of. Since then God hath created me with a reaſonable ſoul, that I might follow, obſerve, and embrace ver<g ref="char:EOLhyphen"/>tue and goodneſs, I will never ſo much degene<g ref="char:EOLhyphen"/>rate from the end of my creation, as to make my body which was created a veſſel of purity, to be a ſink of iniquity, and turn a veſſel of vertuous things into a tun to hold drink.</p>
+               <p>The drunkard can neither rule himſelf nor o<g ref="char:EOLhyphen"/>thers, he is a diſturber of peace, a devourer of good creatures, a corrupter of manners, his wit, foot and hand, goeth palſte like, his belly buryeth his drink, and his drink burieth his wit, his leaſt enemy may overtake him, he is like a drunken <hi>Trojan,</hi> he diſgraceth his profeſſion, and diſa<g ref="char:EOLhyphen"/>bleth his calling; be ſtumbleth in judgement, nothing is left of a man but a ſhape, he is proud, furious, paſſionate, vain, fooliſh, quarrellous, of<g ref="char:EOLhyphen"/>fenſive, a railer, a revealer of ſecrets; he will ſcoff, and ſcold, he will play the tyrant, or the fool, the Lyon or the ape: he hath an inflamed face, and reeling eyes, ſtinking breath, ſtagge<g ref="char:EOLhyphen"/>ring legs, and ſtammering tongue: It goeth like the ſails of a wind-will. Drunkenneſs makes ſhameleſs, but truly ſoberneſs makes them be a ſhamed of their beaſtly behaviour. The drunkard is hardly cured, be finds his diſ<g ref="char:EOLhyphen"/>eaſe ſo pleaſant, and ſuffers his malady to be<g ref="char:EOLhyphen"/>come
+<pb facs="tcp:46847:19"/>come habitual: he regards not the work of the Lord, neither conſiders the works of his hands, he contemneth all correction. <hi>Prov. 23.35. They have ſtricken me, ſhalt thou ſay, but I was not ſick they have beaten me, but I knew it not; when I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> wake therefore will I ſeek it ſtill.</hi> Drunken<g ref="char:EOLhyphen"/>neſs is the mother of all vices, ſaith <hi>Auguſtine.</hi> It is a flaming fiend, a ſweet poiſon, a pleaſant ſin, who doth it, doth not ſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, but is altegether ſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Ovid</hi> ſaith, I will never eſteem a drunken man chaſt; for ſaith <hi>Hierom,</hi> It bringth forth vener by, it doth beget the mind rolt, <hi>Gen. 19.32.</hi> Examples hereof are the Sodomites, and as <hi>David</hi> thought to have done with <hi>Uria<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Sam. 11.13.</hi> Drunkenneſs is the neuriſhment of luſt. St. <hi>Auſtine</hi> ſaith, he is to be puniſhed for that he ſerveth the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> evil willingly. By <hi>Pictacus</hi> law he that doth evil in drunkenneſs, ſhould be twice puniſhed. By <hi>Solons</hi> law a drunken Pr. ſhould dye. The <hi>Indians</hi> allowed a woman to kill a drunken King, and for ber reward, to have his ſucceſſour to her bushand. The' drut kard, by <hi>Moſes</hi> law was lo be ſtoned to death, <hi>Deut. 21.20</hi> The Drunkard defaceth himſelf, it beſotteth the wit, as young <hi>Cyrus</hi> gave his anſwer to his Grand father <hi>Aſtyage',</hi> why be reſuſed to drink wine; becauſe, ſaid he, I to<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> kit to be poiſon; for I have ſeen it ſpoil bath men of wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and ſenſe: as <hi>Origen</hi> ſaid of <hi>Lot,</hi> Drunkenneſs deceived
+<pb facs="tcp:46847:19"/>him whom whole <hi>Sodom</hi> could not deceive. And <hi>Auguſtine</hi> ſaid, Wine is a wild wreſtler. <hi>A ex<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ander</hi> the victor of all was overcome with wine. It turneth ſtrength to weakneſo, and health to ſickneſs. Drunkenneſs (ſaith <hi>Seneca</hi>) doth re<g ref="char:EOLhyphen"/>compence the merry madneſs of one hour with the weariſomneſs of long time. <hi>Gal. 5.21.</hi> Oftimes drunkaros grow ſoon old; and beſides all this, he depriveth himſelf of regeneration, and of Chriſt, <hi>Rom. 6.16.</hi> The ſpirit is quench<g ref="char:EOLhyphen"/>ed, the fleſh and body of ſin is ſtrengthued, and the ſoul is made like a City broken down, and without malls, <hi>Eph. 5.18.</hi> He incurreth ſhame, the examples whereof in <hi>Lot, Noah,</hi> and <hi>Nabal; 1 Pet. 2.11.</hi> and poverty, and famine, <hi>Prov. 21. 17.</hi> and <hi>25.18.</hi> Wine in youth, turneth to wa<g ref="char:EOLhyphen"/>ter in age. The Prophet <hi>Jocl</hi> ſaith, <hi>Joel. 1.5. Awake ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> drunkards, and weep, and howl all ye drinkers of Wine, becauſe of the new wine, for it ſhall be pulled away from your mouth.</hi> The Prophet <hi>Habakkuk</hi> pronounces woe to drunk. ards, <hi>Hab. 2.151, 6. Thou art filled with ſhame, and ſhameful ſpewing ſhall be for thy glory.</hi> The Drunkard is expoſed to all danger, and hath no skill to prevent any, nor feel them, <hi>Prov. 23.34, 35. For he is as o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e that ſleepeth in the midſt of the Sea, and as he that ſleepeth on the to of the maſt.</hi> It bringeth on ſiſdden death, it ſo weath the ſeeds of deadly and veritable ſick<g ref="char:EOLhyphen"/>neſſes;
+<pb facs="tcp:46847:20"/>more periſh by ſurfeit than the ſword. <hi>Ehiah</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. of <hi>Iſrael,</hi> as he was in <hi>Terzah</hi> drink<g ref="char:EOLhyphen"/>ing till be was drunken, <hi>1 Kings 19.9, 10.</hi> his ſervant <hi>Zimiri</hi> Captain of his chariots, came and ſmote him, and killed him, <hi>&amp;c.</hi> Thus you ſee what dangerous effects drunkenneſs doth produce: <hi>Belſhazzar</hi> was ſtain in his drunken<g ref="char:EOLhyphen"/>neſs <hi>Amnon</hi> King <hi>Davids</hi> Son was ſtain in his drunkenneſs. <hi>Holofernes</hi> was murdered in his drunkenneſs, and <hi>Elijah</hi> was killed in his drunkenneſs. <hi>Cambyſes</hi> in his drunkenneſs killed his own Son, and <hi>Alexander</hi> in his drunkenneſs killed his moſt loving friend <hi>Ch<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us;</hi> and beſides all this, as <hi>Eſau</hi> ſold bis birth-right for a meſs of pottage; ſo the Drunkard his grace and glories right, for a belly full of drink, for the which he is excluded out of Heaven, <hi>Gal. 5.21.</hi> ſo that, when that ſhall be ſo fearfully accompliſhed, he may miſerably ſay thus, O God, for how ſhort a pleaſure have I given over ſo great a felicity! when with the rich glutton in his ſtery torments, he ſhall not be piried with one drop of water to quench his endleſs and un<g ref="char:EOLhyphen"/>quenchable thirſt. What will the drunkards ſay, when that hand-writing ſhall appear againſt them, which appeared againſt <hi>Belſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>zzar in</hi> his drunkenneſs, <hi>Dan. 5.</hi> and ſhy <hi>Mene, Mene, Te<g ref="char:EOLhyphen"/>kel upharſin; God hath numbred thy Kingdom, and finiſhed it, and thou art weighed in the ba<g ref="char:EOLhyphen"/>lance
+<pb facs="tcp:46847:20"/>and found too light, &amp;c.</hi> What wilt thou ſay if God ſhould call thee to an account for thy <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e wardſhip, <hi>Luke 16.</hi> (even in the midſt of thy drunkenneſs) and ſay, thou ſhalt he no longer ſteward, becauſe thou haſt waſted thy Maſters goods, yet for all this, it is hard to cure a man that is given to drunkenneſs; it is difficult to ſpeak to the belly, which hath no ears, it is folly to rebuke a drunken man, <hi>1 Sam. 25.36. Lycur<g ref="char:EOLhyphen"/>gus</hi> to cure drunkenneſs, cauſed all the vines to be cut down. <hi>Diogenes</hi> when he was urged to drink beyond meaſure, did caſt the drink on the ground ſaying, If I do drink all this, not then the liquor, but my ſelf would be deſtroyed: therefore it is good to eſchew the company of drunkards; one diſeaſed ſheep infe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s the whole flock. The conſideration of the filthy manners of drunkards is a great preservative to an ho<g ref="char:EOLhyphen"/>neſt heart. This was the remedy that <hi>Anachar<g ref="char:EOLhyphen"/>sis</hi> uſed, having ever before his eye the moſt fil<g ref="char:EOLhyphen"/>thy and unſeemly manners of the intemperate. Call alſo frequently to mind when thou art ſo<g ref="char:EOLhyphen"/>ber, thoſe filthy things that thou haſt uſed, ſaid, or done, when thou waſt drunken. <hi>Plato</hi> willed did diſciples when they were drunk to behold themſelves in a mirrour, that they might the more deteſt their own manners. If thou couldſt fall into ſpiritual thriety, wherein there is a wonderful thirſt for the fountain of life, and
+<pb facs="tcp:46847:21"/>wouldeſt repleniſh thy heart with the rivers of the water of life, and couldſt ſay with <hi>David, Pſal. 42.1, 2. Like as the hart p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>h afte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the water brooks, ſo long<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th my ſoul after thee, O God; my ſould is a-thirſt for God, yea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> even for the living God, when ſhall I come to appear before the preſence of God.</hi> In that caſe thou wouldſt eaſily bridle thy ſelf from that hodily, and more than beaſtly drunkenneſs. This ſpiri<g ref="char:EOLhyphen"/>tual ebriety, albeit it he ſcorned by the pro<g ref="char:EOLhyphen"/>phane, as may he ſeen in the example of <hi>Hanna</hi> the mother of, <hi>Samuel, I Sam</hi> &amp; in the Apoſtles <hi>Acts 2.4, 13.</hi> when they were all filled with the Holy Ghoſt, ſome mocked, and ſome ſaid. <hi>they are full of new wine;</hi> yet let us ſand <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſte our ſpiritual thirſt, <hi>Eph. 5.18. And be filled with the ſpirit.</hi> Joyn herewithal prayer, hearing of the word, meditation of Gods love, of Chriſts drath and union with us, and how that our bo<g ref="char:EOLhyphen"/>dies are the temples of the holy ſpirit, and that God beholdeth us as a jud<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e whoſe wrath is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rong, remembring always the laſt day of our life, and the world, and look to thy particu<g ref="char:EOLhyphen"/>lar calling, that by no means thou diſgrace it by brunkenneſs, nor hinder it, but rather dignifie it by temperance. Lo this purpoſe it is ſaid, <hi>Prov. 31.4, 5. It is not for Kings, O Lemuel, it is not for Kings to drink wine, nor for Prin<g ref="char:EOLhyphen"/>ces ſtrong drink, leſt he drink and forget the
+<pb facs="tcp:46847:21"/>decree, and change the judgement of the Chil<g ref="char:EOLhyphen"/>dren of affliction.</hi> Conſider alſo thy Chriſtian calling, that thou art a child of the light, that thou ſhouldſt walk In the light, and not a child of darkneſs, that thy intention may be to walk always honeſly, <hi>Rom. 13.13. as in the day, and not in drunkenneſs, Ti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 2.12. For the grace of God, that bringeth ſolvation unto all men, hath appeared, and teacheth us to deny un<g ref="char:EOLhyphen"/>godlineſs and worldly luſts, and to live righte<g ref="char:EOLhyphen"/>ouſly, godly, and temperately in this preſent world.</hi>
+               </p>
+               <p>Civil laws well ſet down, but better execu<g ref="char:EOLhyphen"/>ted, would he great helps againſt this malady to correct it. At leaſt, the <hi>Perſim</hi> law authori<g ref="char:EOLhyphen"/>ſed by king <hi>Ahaſhuetus, Eſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h. 1.8.</hi> was excreed<g ref="char:EOLhyphen"/>ing good to reſtrain ſome degrees of this im<g ref="char:EOLhyphen"/>plety which was, that none ſhould compel another to dringk; for ſo the King had appointed; that they ſhould do according to every mans pleaſures that drink is moſt pleaſant, that ſuf<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th a mans ſelf. <hi>Plato's</hi> law was, not to drink to another. As drunkenneſs groweth by cu ſtome, ſo it doth fade by abſtinence. As did the <hi>Rechabi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s</hi> in their conſtant abſtinence from wine, at the commandment of one <hi>Jonad<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>. Jer. 35.5, 6, 19. Jeremiah ſet before them po<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s full of wine, and cups, and ſaid unto them, drink wine. But they ſaid, we will drink no wine,
+<pb facs="tcp:46847:22"/>for Jonadab ſaid, You ſhall drink no wine, nei<g ref="char:EOLhyphen"/>ther you nor your Sons for ever, &amp;c. We obey his voice, we drink <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o wine all our dayes, neither we, our wives, our ſons nor our daughters, ſo the Rechabites kept this command. Therefore thus ſaith the Lord of Hoſts, the God of Iſrael, Jona<g ref="char:EOLhyphen"/>dad the ſon of Rechab, ſhall not want a man, to ſtand before me for ever, his poſterity ſhall con<g ref="char:EOLhyphen"/>tinue, and be in my favour for ever, becauſe thou haſt obeyed thy fathers command.</hi> Surely this is one ſufficient motive for to induce every one unto <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ob<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tery. W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en the drink is in the cup it is in thy power; when it is in the body thou art in the power of it; when thou drinkeſt thou u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt the wine as thou pleaſeſt, but after thou baſt drunken, it will handle thée as it pleaſeth; it is an eaſte entry, pea, a moſt <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ppery ſtep to drunkenneſs. Conſider alſo that God and na<g ref="char:EOLhyphen"/>ture hath given thée thé narroweſt womb, and the ſtraiteſt throat above all living creatures, that thou mayſt learn thereby to be moſt ſober, a <hi>Theſ. 5.5.6.</hi> be inſtructed in the grace of God, <hi>Tit. 2.11, 12.</hi> watch for Chriſts ſecond com<g ref="char:EOLhyphen"/>ing, <hi>Luk. 21.24.</hi> Drink as thou wert to drink no more. Be careful to fill thy heart with grace, <hi>Eph. 5.18. Heb. 13.9.</hi> Put on the Lard Jeſus, <hi>Rom. 13.14. Gol. 5.24.</hi> Be ſtrong in the inner man, <hi>Eph. 3.16.</hi> Let nat thy table be a ſnare to thee, <hi>Pſal. 69.23.</hi> Repleniſh thy heart with
+<pb facs="tcp:46847:22"/>the ſpirit, before thou fill it with drink, with ſpi<g ref="char:EOLhyphen"/>ritual gladneſs, and a thankful heart begin thy drinking, <hi>Eph. 5.18, 19. J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>el 2.26.</hi> and all thy actions reſpect Gods glory. <hi>1 Cor. 10.31. Whe<g ref="char:EOLhyphen"/>ther therefore ye eat or drink, or whatſoever ye do, do all to the glory of God. And then thou ſhall call upon the name of the Lord, and he will heart the, and he will be with thee in trouble; and be will deliver thee, Pſal. 91.15.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>A perſwaſion to Temperance, and ſome mo<g ref="char:EOLhyphen"/>tives for to induce us thereunto; ſhewing the dangerous effects that come of drunkenneſs, <hi>&amp;c.</hi>
+               </head>
+               <p>Doſt in a morning ſavour drink that's ſtrong? Then do not drink thy mornings draught too long:
+<q>
+                     <l>However let me crave and beg this boon</l>
+                     <l>You do not drink your mornings draught till noon:</l>
+                     <l>But you undo your ſolid ſenſes quite</l>
+                     <l>If that you drink your mornings draught till night</l>
+                     <pb facs="tcp:46847:23"/>
+                     <l>For many men in their exceſſive bowls,</l>
+                     <l>With their own bodies overthrow their ſouls:</l>
+                     <l>And therefore never let thine own right hand</l>
+                     <l>Ruine thy ſelf, by breaking this command:</l>
+                     <l>Grant me but this, and truly though l'm poor,</l>
+                     <l>I'le never beg of you or yours more:</l>
+                     <l>To keep from want, ſpend prodigally never,</l>
+                     <l>To keep from ſpending, think thou wanteſt ever:</l>
+                     <l>That want thou mayeſt not, ſave what thou haſt, got</l>
+                     <l>That ſave thou mayeſt, think that thou haſt it not.</l>
+                     <l>The beſt way not to want, is to be ſparing,</l>
+                     <l>The way to ſpare, to be for want ſtill caring:</l>
+                     <l>If thou canſt get, but not keep what is got,</l>
+                     <l>Beggery, when all is done, will be thy lot.</l>
+                     <l>When thou haſt dig'd a well that water gives,</l>
+                     <l>What good wil't do if poured into Sives:</l>
+                     <l>As one hand brings in, t'other muſt lay up,</l>
+                     <l>Elſe thou mayſt have to dine but not to ſup;</l>
+                     <l>Hold faſt thy ſtate, why ſhouldſt thou look for more,</l>
+                     <l>And could'ſt not keep that which thou hadſt before.</l>
+                     <l>'Tis and old ſaying, ſpend and God will ſend,</l>
+                     <l>But what? beggery and bareneſs in the end.</l>
+                     <l>Be ſparing in expence exceſſive ſpending</l>
+                     <l>Brings what was long a getting to quick ending.</l>
+                     <l>Abuſe not thy eſtate with riotous dealing,</l>
+                     <l>For riot wounds with want, want c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>res with ſtealing.</l>
+                     <pb facs="tcp:46847:23"/>
+                     <l>Uſe thy eſtate, but fool it not away,</l>
+                     <l>Turn'd out of all, men <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rn to birds of prey.</l>
+                     <l>Uſe but with temper that which thou haſt got,</l>
+                     <l>No leech like one that had, and hath it nor.</l>
+                     <l>Uſe thy eſtate, but give it not the ſlip,</l>
+                     <l>Want makes the old wife trot, the young wife, trip.</l>
+                     <l>Drink not too much, if thou thy health intend,</l>
+                     <l>Every exceſs hath ſome defect i'th' end.</l>
+                     <l>Drink not extreamely, if thou love thine caſe,</l>
+                     <l>Every extraem breeds ſome extream diſeaſe;</l>
+                     <l>Drink moderatly, if health thou wilt maintain,</l>
+                     <l>Exceſs of pleaſure breeds exceſs of pain;</l>
+                     <l>Drink ſerves the bodies moiſture to maintain,</l>
+                     <l>When that turn's ſerv'd, the reſt but drowns the brain</l>
+                     <l>Do we not daily ſee that drunknneſs</l>
+                     <l>And luſt provoking meats, eat with exceſs,</l>
+                     <l>Makes men more wanton, and more ſeeble grow,</l>
+                     <l>More prone to vice, to pious deeds more ſlow?</l>
+                     <l>And what's the pleaſure we can here obtain</l>
+                     <l>More than an itching humour mixt with pain:</l>
+                     <l>For in the midſt of mirth for ought we know,</l>
+                     <l>We to the pit of hell may headlong go:</l>
+                     <l>When overcome with drink we lye a ſleep,</l>
+                     <l>We may fall down into the dungeon deep:</l>
+                     <l>When we are ſinging filthy Ale-houſe ſongs,</l>
+                     <l>God juſtly may deprive us of our tongues:</l>
+                     <l>When we are piping, peeping in the cup</l>
+                     <l>Too ſee our fellow drunkards drink all up,</l>
+                     <l>God may in Juſtice take away our ſight,</l>
+                     <pb facs="tcp:46847:24"/>
+                     <l>Becauſe we knew not how to uſe it right:</l>
+                     <l>Before the hand can get the cup to th'head</l>
+                     <l>For ought we know we may be ſtricken dead.</l>
+                     <l>When we are merry drinking of ſome health,</l>
+                     <l>Sickneſs may come into the room by ſtealth;</l>
+                     <l>And one arreſt in great Jehovahs name,</l>
+                     <l>On pain of death to go from whence he came:</l>
+                     <l>The party ſtruck, grows ill and ſick at heart,</l>
+                     <l>Yet with good fellows he's full loth to part:</l>
+                     <l>Some wiſhes him to ſtay, ſome not to ſhrink,</l>
+                     <l>Some tells him he was hang'd that left his drink.</l>
+                     <l>But what ſays he? alas I know his mind,</l>
+                     <l>He with his meats had rather ſtay behind:</l>
+                     <l>I cannot blame him, for the truth is this,</l>
+                     <l>Without repentance there's ſmall hopes of bliſs.</l>
+                     <l>The way is narrow, how then ſhall the blind</l>
+                     <l>And ſta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ing, ſtaggering Drunkard it ere find,</l>
+                     <l>Or having found it, keep in it ſith he</l>
+                     <l>Hath all his life been us'd to Heuf and Ree?</l>
+                     <l>Beware then drunkards and grow wiſe in time,</l>
+                     <l>Hate and forſake this ſoul-condemning crime;</l>
+                     <l>Watch and be ſober, and both faſt and pray,</l>
+                     <l>That thou mayſt feaſt with Chriſt another day.</l>
+                     <l>His throat that once did ſwalow down ſtrong Drink</l>
+                     <l>Is now more full of filth than any ſink:</l>
+                     <l>He that did once drink wine and water ſtrong,</l>
+                     <l>A drop of water craves to cool his tongue.</l>
+                     <l>As J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cob <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o his houſhold, ſo ſpeak I.</l>
+                     <l>Unto cach Ci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y, Countrey, Family:</l>
+                     <pb facs="tcp:46847:24"/>
+                     <l>Away with thoſe ſtrange Gods that are among you,</l>
+                     <l>And change your garments, for theſe things will wrong you.</l>
+                     <l>Away with whoredom, drunkenneſs and pride,</l>
+                     <l>Gods purity cannot ſuch ſins abide:</l>
+                     <l>Wreſtle with God, let not thy courage ſail,</l>
+                     <l>By earneſt ſuits thou mayſt at length prevail.</l>
+                     <l>Tell ſuch as ſhall thy perſon laugh to ſcorn</l>
+                     <l>Unwiſely, they but ſpurn againſt a thorn:</l>
+                     <l>And tell them that revile what I have writ,</l>
+                     <l>I doubt not but they have more hair than wit:</l>
+                     <l>More wit than wiſdom, for if they were wiſe</l>
+                     <l>To know themſelves, they would not me deſpiſe.</l>
+                     <l>Inquire not what I am, Gods gifts are free,</l>
+                     <l>With able parts mean men adorn'd may be;</l>
+                     <l>Sound brains may be within a rugged Felt,</l>
+                     <l>An honeſt heart within a leathern Pelt:</l>
+                     <l>Always fair Birds have not the ſweeteſt notes,</l>
+                     <l>Arts are not always deckt in Velvet coats:</l>
+                     <l>On higheſt trees are croaking Ravens born,</l>
+                     <l>When the ſweet Nightingale ſits on a thorn,</l>
+                  </q>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
